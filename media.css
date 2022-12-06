@@ -15,6 +15,7 @@
     .nav.open .nav-list {
         position: fixed;
         top: 0;
+         
         right: 20px;
         bottom: 0;
         z-index: 2;
